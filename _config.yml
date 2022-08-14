@@ -20,8 +20,7 @@
 
 title: Authors of the Caribbean
 email: nataliemmillsda@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  The purpose of this site is to have information about Caribbean authors and authors of Caribbean books. The main focus would be their place of birth. This is to empower Caribbean people who are thinking of becoming an author to pursue their dreams and make it a reality.
+description: The purpose of this site is to have information about Caribbean authors and authors of Caribbean books. The main focus would be their place of birth. This is to empower Caribbean people who are thinking of becoming an author to pursue their dreams and make it a reality.
 baseurl: "/AuthorsOfTheCaribbean" # the subpath of your site, e.g. /blog
 url: "https://natotox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
