@@ -11,7 +11,9 @@ What are your thoughts on this project?
 	<form>
 		Name: <input type="text" name="name">
 		<br>
-        <input type="text" cols="50" rows="3" name="QuestionorSuggestion">
+        E-mail: <input type="text" name="email">
+		<br>
+        <input type="text" name="QuestionorSuggestion">
 		<br>
 		<input type="submit" value="SUBMIT">
 		<input type="reset" value="RESET">
