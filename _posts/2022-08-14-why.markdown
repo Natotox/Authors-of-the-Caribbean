@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Why Questions"
-date:   2022-08-14 03:00
-categories: Questions
----
-
-Why does certain countries have more authors than others?
-Why was there such an increase in books published between the decades '1970 - 1979' and '1980 - 1989'?
