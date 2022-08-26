@@ -13,6 +13,8 @@ What are your thoughts on this project?
 		<br>
         E-mail: <input type="text" name="email">
 		<br>
+        <br>
+        Suggestion:
         <input type="text" name="QuestionorSuggestion">
 		<br>
 		<input type="submit" value="SUBMIT">
