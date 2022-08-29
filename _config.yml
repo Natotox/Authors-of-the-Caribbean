@@ -20,7 +20,7 @@
 
 title: Authors of the Caribbean
 email: nataliemmillsda@gmail.com
-description: description of project
+description: A brief look into what and who contributed to the identity of Caribbean Literature.
 baseurl: "/Authors-of-the-Caribbean/" # the subpath of your site, e.g. /blog
 url: "https://natotox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

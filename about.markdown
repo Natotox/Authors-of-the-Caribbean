@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Take a look into who, and what, made Caribbean Literature become what it is today!
+<b>Summary of Project</b>
+<br>
+<br>
+<b>History of Project</b>
+<br>
+<br>
+<b>Mission of Project</b>
